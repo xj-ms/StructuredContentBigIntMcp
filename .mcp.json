@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "structured-content-bigint": {
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "StructuredContentBigIntMcp.csproj"
+      ]
+    }
+  }
+}
